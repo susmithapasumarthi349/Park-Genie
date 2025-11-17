@@ -1,0 +1,1 @@
+A modern, interactive web application that helps users find nearby parking spots using maps + chatbot search. Built with HTML, CSS, JavaScript, and Leaflet.js, ParkGenie simulates real-world parking data and provides an intuitive interface to explore parking availability across locations worldwide.
